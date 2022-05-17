@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+//completed
 
 function InputArea(props) {
   const [inputText, setInputText] = useState("");
@@ -22,5 +23,5 @@ function InputArea(props) {
     </div>
   );
 }
-
+// ---
 export default InputArea;
